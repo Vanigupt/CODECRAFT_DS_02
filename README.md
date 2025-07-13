@@ -6,18 +6,26 @@ The dataset used is the [Titanic Dataset](test.csv) from Kaggle, which includes 
 
 # 🛠 Tools & Libraries Used
 🔹 Jupyter Notebook
+
 🔹 Pandas
+
 🔹 NumPy
+
 🔹 Matplotlib & Seaborn
 
-#📈 EDA Highlights
+# 📈 EDA Highlights
 🔹 Cleaned missing values and corrected data types
+
 🔹 Analyzed distributions and relationships between features
+
 🔹 Visualized survival trends based on gender, age, and class
 
-#🧾 Conclusion
+# 🧾 Conclusion
+
 This analysis provided useful insights into survival patterns aboard the Titanic and demonstrated the importance of data preprocessing and visualization in understanding datasets.
 
-#📬 Contact
+# 📬 Contact
+
 📧 Email: guptavani901@gmail.com
+
 🔗 LinkedIn: [Vani Gupta](https://www.linkedin.com/in/vani-gupta-952125253)
